@@ -62,7 +62,7 @@ Baseline Score: 37%  (6/16 checks passing; INFO findings excluded from scoring)
 - No external dependencies beyond standard utilities (`ss`, `stat`, `getcap`, `find`, `grep`, `awk`)
 - Root recommended — firewall inspection, capabilities/SUID scan, and cron spool enumeration return partial results without it
 
-## Usage
+## How To Use
 
 ```bash
 git clone https://github.com/Josperdo/Security-Baseline-Checker.git
